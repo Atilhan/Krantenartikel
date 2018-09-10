@@ -1,0 +1,36 @@
+
+
+h1 vloot1{
+	float:right;
+}
+
+
+main{
+	width:1000px;
+	margin: 0 auto;
+	background-color:#9cc;
+	height: 100vh;
+	padding-right:10px;
+	padding-left:10px;
+	padding-top:1px;
+}
+body{
+	padding:0px;
+	margin:0px;
+}
+
+img{
+	border:2px solid #021a40;
+}
+
+img.left{
+	float: left;
+	margin-right:10px;
+
+}
+
+img.right{
+	float: right;
+	margin-left:10px;
+}
+
